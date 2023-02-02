@@ -1,0 +1,31 @@
+"id","alter_keyword_list","category","keyword_tag_id"
+35,"django, flask,fastapi,django restframework,django developer flask developer, machine learning engineer, data scientist, data analyst, python web developer, pyqt developer, farm developerfastapi","education",2
+37,"postgresql, firebase, mysql, nosql, mongodb, sqlite, mariadb, oracle,microsoft sql server database","experience",65
+38,"network architect, network engineer, help desk analyst, service desk analyst, system administrator, it coordinator","experience",65
+39,"product manager, project manager, systems analyst, it project coordinator, business solution architect, enterprise architect, business architect, enterprise solutions architect,database,sql,documentation","education",65
+40,"agile scrum master, agile tester, agile business analyst, agile project manager, agile qa tester","experience",65
+41,"mean developer, mern developer, mevn developer, react developer, wordpress developer, full stack developer, php frontend developer, shopify developer,html,css,javascript, backend","experience",65
+42,"react, aws, python, node.js, typescript, javascript, sql, css, java, html ,docker ,kubernetes, postgresql, react native, graphql, mongodb, php, go/golang, ruby on rails, angular devops,express.js","experience",65
+43,"ci/cd pipelines,devops , gcp, azure,cloud,jenkins,aws,kubernetes,prometheus,grafana,datadog,terraform/ansible,couchbase/nosql,java/jvm,python,ruby,javascript,c","experience",65
+44,"android studio,kotlin,java,figma,ui","experience",65
+45,"react,node.js,html,css,bootstrap,javascript,express.js,jquery","experience",65
+46,"perl,sql,etl,ms sql server","experience",65
+47,"angularjs,node.js,mongodb, machine learning,  excel, gsheets, powerpoint,  software development life cycle (sdlc)","experience",65
+48,"java,python,php,.net,ruby,golang,ms sql server,oracle database,mysql,mongodb,cassandra,redis,dynamodb,springboot,spring,cms,sass, laravel, php,html,css,javascript,oop","experience",65
+49,"java,python,sql,agile software development testing,autify,selenium,selenium webdriver,cucumber/codeception,grey-box,data integrity ,kanban,rest assured/curl,postman/swagger,jenkins,docker,cloud-based service testing,jira,database/data warehouse testing","experience",65
+50,"c#,webrtc,java,unity 3d ,hibernate,jpa,maven,coroutines,mecanim,events,object pooling","experience",65
+51,"relational (sql) databases,distributed nosql,javascript, node.js, html, css,react ant design, rest, microservice architecture,restful apis,reactjs,python,django,oop","experience",65
+52,"python,numpy,pandas,seaborn,matplotlib,sklearn,scikit-learn,tensorflow,keras,pytorch,mlops,pillow,open-cv,cv2,sql,onnx,neural networks,natural language processing,data mining","experience",65
+53,"java,python,c++,aws,cloud,apache lucene,linux,elasticsearch, apache solr,digital forensics, soar, siem platforms","experience",65
+54,"php, laravel, javascript, mysql, rdbms,rest/restful apis,xml, json, rest,soap,git / svn,oop,mvc,html,css","experience",65
+55,".net,c#,c++ ,c,wfp,pyqt, tkinter","experience",65
+56,"next.js, react,devops,web3.js,cd3d.app,smart contract,adobe xd, invision,solidity,cryptography , security principles,hash functions","experience",65
+57,"data mining, data models, segmentation techniques,database design ,sql,r, sas, matlab,python,data visualizing,data analysis,data disseminating,machine learning,data wrangling,cloud computing","experience",65
+59,"http, rest, ajax,  json,restful apis, graphql, js dev,mvc, delegation, singleton, factory,adapter,ios,android,react-native components,flux, flow, redux, javascript, css, html","experience",65
+60,"atlassian,jira, bamboo,os,linux","experience",65
+61,".net, react js, aws s3, sqs, rds, cloudwatch, lambda,ec2, s3, ecs, api, gateway,mvc, mvp, mvvm,xml, json, protocol buffers,ci/cd, azure devops,sqldbm","experience",65
+62,"unity,unreal engine,blender,figma,c++,character creator pipeline","experience",65
+63,"advanced supply chain planning","certification",59
+64,"mcap, mcsd, mcp","certification",59
+65,"microsoft certified educator","certification",59
+66,"windows server, bi reporting, microsoft dynamics 365 for operations, sql server, universal windows platform, web applications","certification",59

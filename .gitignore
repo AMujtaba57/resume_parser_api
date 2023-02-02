@@ -1,0 +1,6 @@
+venv/*
+api/migrations/*
+static/*
+.idea/*
+.env
+*.yaml

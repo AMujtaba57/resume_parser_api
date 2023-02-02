@@ -1,0 +1,794 @@
+"id","keyword_value","keyword_tag_id"
+158,".net",6
+159,"2checkout",5
+160,"2d",7
+161,"3d",7
+162,"abap",6
+163,"accord.net",8
+164,"acrobat",5
+165,"actionscript",6
+166,"activision engine",5
+167,"ada",6
+168,"adabas",5
+169,"adminer",5
+170,"ado.net",5
+171,"adobe",5
+172,"agile",7
+173,"ai",7
+174,"aix",5
+175,"ajax",5
+176,"alchemy",5
+177,"algol",6
+178,"alice",6
+179,"alipay",5
+180,"altibase",5
+181,"amazon athena",5
+182,"amazon emr",5
+183,"amazon keyspaces",5
+184,"amazon lumberyard",5
+185,"amazon machine learning",5
+186,"amazon pay",5
+187,"amazon quicksight",5
+188,"amazon rds",5
+189,"amazon redshift",5
+190,"amazon sagemaker",8
+191,"anaconda",8
+192,"analysis",7
+193,"analytics",7
+194,"analyzer",7
+195,"analyzing",7
+196,"android",8
+197,"android pay",5
+198,"android studio",5
+199,"angular",8
+200,"angular.js",8
+201,"angularjs",8
+202,"ansi",6
+203,"ansible",5
+204,"ant",5
+205,"antivirus",5
+206,"apache",8
+207,"apache flink",8
+208,"apache kafka",8
+209,"apache spark",8
+210,"apache wicket",8
+211,"apexsql monitor",5
+212,"api",6
+213,"apl",6
+214,"app watch",8
+215,"appgamekit",5
+216,"appium",8
+217,"apple pay",5
+218,"applix",5
+219,"apps",7
+220,"appstore",5
+221,"appworx",5
+222,"ar",5
+223,"arcgis",8
+224,"arcgixb",8
+225,"architecting",7
+226,"archiving",7
+227,"arcsight",8
+228,"arduino",5
+229,"areva",8
+230,"arm",5
+231,"articulate",5
+232,"ascii",6
+233,"asl",6
+234,"asp",8
+235,"asp.net",8
+236,"asp.net core",8
+237,"assembly",6
+238,"assembly 6",6
+239,"atom",6
+240,"atom solidity linter",5
+241,"audacity",5
+242,"audit",8
+243,"authorize.net",5
+244,"autocad",5
+245,"autofac",8
+246,"automation",7
+247,"automl",5
+248,"autosys",5
+249,"avionics",5
+250,"awk",6
+251,"aws",8
+252,"aws glue",5
+253,"aws lake formation",5
+254,"axure",5
+255,"azure",8
+256,"azure cosmos db",5
+257,"azure synapse analytics",5
+258,"baas",5
+259,"backbone.js",8
+260,"backbonejs",8
+261,"backdrop cms",5
+262,"backend",7
+263,"backtrack",5
+264,"bbc basic",6
+265,"bi",5
+266,"bigml",8
+267,"bigquery",5
+268,"bios",5
+269,"bitbucket",5
+270,"blender",5
+271,"blizzard engine",8
+272,"blockchain",7
+273,"blockchain-as-a-service",5
+274,"bluesnap",5
+275,"bolt",5
+276,"bookshelf.js",8
+277,"bookshelfjs",8
+278,"bootstrap",6
+279,"bottle",8
+280,"braintree",5
+281,"bridging",7
+282,"buildbox",5
+283,"c",6
+284,"c#",6
+285,"c\++",6
+286,"cabling",7
+287,"caffe",5
+288,"cakephp",6
+289,"card.io",5
+290,"cd/ci",5
+291,"celtx",5
+292,"centos",5
+293,"cerberus x",5
+294,"cfr",8
+295,"cgi",8
+296,"cgs",8
+297,"cherrypy",8
+298,"cisco",5
+299,"cloud",5
+300,"cloudera",5
+301,"cmake",5
+302,"cmod",5
+303,"cms",5
+304,"cmvc",8
+305,"cobol",6
+306,"cocoa",8
+307,"cocos2d",8
+308,"codeigniter",8
+309,"coldfusion",5
+310,"compiler",5
+311,"compiling",7
+312,"complexity",7
+313,"computer vision",7
+314,"computing",7
+315,"configuring",7
+316,"construct 3",6
+317,"coral",5
+318,"coredata",8
+319,"corel",5
+320,"corona",8
+321,"cpanel",5
+322,"crm",5
+323,"cryengine",8
+324,"cryptography",5
+325,"cs5",5
+326,"css",6
+327,"cuda",5
+328,"cuv",8
+329,"cxml",5
+330,"cyberark",5
+331,"cybersecurity",7
+332,"cygwin",5
+333,"dapper",8
+334,"dart",6
+335,"data science",7
+336,"data warehouse",8
+337,"database",7
+338,"database concepts",7
+339,"databricks",8
+340,"datacamp",5
+341,"dataflex",5
+342,"datalab",5
+343,"datarobot",5
+344,"daz3d",5
+345,"db",7
+346,"db visualizer",5
+347,"db2",5
+348,"dbflow",5
+349,"dbms",5
+350,"dbschema",5
+351,"ddos",5
+352,"debian",5
+353,"debugging",7
+354,"deep learning",7
+355,"delphi",6
+356,"deployment",7
+357,"designer",7
+358,"designing",7
+359,"desktop",7
+360,"devart",5
+361,"developer",7
+362,"development",7
+363,"devops",8
+364,"dhcp",7
+365,"dhtml",5
+366,"digital ocean",8
+367,"django",8
+368,"dlib",5
+369,"dns",7
+370,"docker",5
+371,"dockerizing",7
+372,"docking",7
+373,"doctrine",8
+374,"dojo",8
+375,"dos",5
+376,"dot-abi-cli",5
+377,"dotcms",5
+378,"dotnet",6
+379,"dreamweaver",5
+380,"drupal",8
+381,"dsl",5
+382,"dudaone",5
+383,"dwolla",5
+384,"dynamics",7
+385,"dynamodb",5
+386,"e-check",5
+387,"easy ar",5
+388,"ec2",5
+389,"eclipse",5
+390,"edi",8
+391,"edifact",5
+392,"edifecs",5
+393,"edrms",8
+394,"eigrp",7
+395,"elastic search",5
+396,"elixir",6
+397,"emass",5
+398,"embark",8
+399,"embedded",7
+400,"emr",8
+401,"ems",8
+402,"ems sql manager",5
+403,"encoding",7
+404,"encryption",7
+405,"engineering",7
+406,"ent",8
+407,"enterprise",6
+408,"entity",8
+409,"entity 8",8
+410,"entity 8 core",8
+411,"epicor",8
+412,"epm",5
+413,"erd",7
+414,"erlang",6
+415,"erp",8
+416,"esm tools",5
+417,"eth fiddle",8
+418,"ethereum-abi-ui",8
+419,"ethereumj",8
+420,"ethereumjs vm",8
+421,"etherlime",8
+422,"ethernet",5
+423,"ethpm-spec",8
+424,"etl",5
+425,"express.js",8
+426,"extranet",5
+427,"f#",6
+428,"farm",8
+429,"fastapi",8
+430,"filemaker",5
+431,"filenet",5
+432,"finance",5
+433,"firebase",5
+434,"firewall",7
+435,"firmware",5
+436,"flask",8
+437,"forth",6
+438,"fortran",6
+439,"8",8
+440,"frontend",7
+441,"ftp",7
+442,"fuelphp",8
+443,"functional programming",7
+444,"fusion 2.5",5
+445,"gamebench",5
+446,"gamemaker studio 2",5
+447,"ganache",5
+448,"ganache cli",5
+449,"genome",5
+450,"gensim",8
+451,"geth",5
+452,"gideros",8
+453,"gis",8
+454,"git",5
+455,"github",5
+456,"gitlab",5
+457,"glueviz",5
+458,"go",6
+459,"go ethereum",5
+460,"gocardless",5
+461,"godot",5
+462,"golang",6
+463,"google bigquery",5
+464,"google cloud automl",5
+465,"google cloud bigtable",5
+466,"google cloud platform",8
+467,"google cloud spanner",5
+468,"google colab",5
+469,"gorm",5
+470,"graphdbgraphic",5
+471,"graphviz",5
+472,"groovy",6
+473,"gui",5
+474,"hadoop",8
+475,"hadoop hdfs",5
+476,"haproxy",5
+477,"haskell",6
+478,"haxe 4",6
+479,"helix core",5
+480,"heroku",5
+481,"hibernate",5
+482,"houdini fx",5
+483,"html",6
+484,"html5",6
+485,"iaas",7
+486,"ibm db2",5
+487,"ibm db2 warehouse",8
+488,"ibm watson",5
+489,"icloud",5
+490,"idl",6
+491,"iis",5
+492,"image processing",7
+493,"imap",7
+494,"implementation",7
+495,"incredibuild",5
+496,"infura",5
+497,"inpage",5
+498,"insight",8
+499,"installation",7
+500,"integrating",7
+501,"integration",7
+502,"interfaces",7
+503,"internet of things",7
+504,"intranet",5
+505,"intune",5
+506,"invision",5
+507,"ionic",8
+508,"ios",5
+509,"iot",7
+510,"ip",7
+511,"ipps",8
+512,"ipsec",7
+513,"ipv4",7
+514,"ipv6",7
+515,"irs",8
+516,"isdn",5
+517,"jamf",5
+518,"java",6
+519,"javafx",6
+520,"javascript",6
+521,"jdk",5
+522,"jenkins",5
+523,"jira",5
+524,"jit",5
+525,"joomla",5
+526,"jquery",6
+527,"js",6
+528,"jscript",6
+529,"json",7
+530,"json rpc api",5
+531,"json-rpc",5
+532,"julia",6
+533,"jupyter notebook",5
+534,"keras",8
+535,"kernel",5
+536,"knack",5
+537,"knime",5
+538,"kobiton",5
+539,"kotlin",6
+540,"kubernetes",5
+541,"l2tp",7
+542,"lan",7
+543,"landesk",7
+544,"laravel",8
+545,"latex",5
+546,"ldap",7
+547,"lift",8
+548,"linq",8
+549,"linux",5
+550,"liquidity",5
+551,"logic",7
+552,"logical",7
+553,"longrange",5
+554,"lua",6
+555,"lync",5
+556,"mac os",5
+557,"machine learning",7
+558,"magento",5
+559,"mahout",5
+560,"management",7
+561,"marmalade",5
+562,"matlab",6
+563,"maven",5
+564,"mean",7
+565,"memsql",5
+566,"mern",7
+567,"metamask",5
+568,"meteor",8
+569,"mevn",7
+570,"microsoft access",5
+571,"microsoft power bi",5
+572,"microsoft sql server",5
+573,"microsoft windows",5
+574,"middleware",5
+575,"mist",5
+576,"mixamo",5
+577,"mlflow",5
+578,"mlops",7
+579,"mlpack",5
+580,"mobile angular ui",8
+581,"mobincube",5
+582,"mojolicious",8
+583,"mongodb",5
+584,"monogame",8
+585,"ms access",5
+586,"ms dos",5
+587,"ms excel",5
+588,"ms exchange",5
+589,"ms sql",5
+590,"ms windows",5
+591,"ms word",5
+592,"ms.net",5
+593,"msxml",5
+594,"multitask",7
+595,"multitasking",7
+596,"multithread",7
+597,"multithreading",7
+598,"mvc",8
+599,"mvc 4",8
+600,"mvc 5",8
+601,"mvp",7
+602,"mvs",5
+603,"mvvm",7
+604,"my sql workbench",5
+605,"mysql",7
+606,"nat",7
+607,"nativescript",8
+608,"neo4j",5
+609,"netapp",5
+610,"netbeans",5
+611,"netcdf",7
+612,"nethereum",8
+613,"netiq",7
+614,"netsuite",5
+615,"netware",5
+616,"network",7
+617,"network programming",7
+618,"networking",7
+619,"next.js",8
+620,"nginx",5
+621,"nlp",7
+622,"nmap",5
+623,"node",7
+624,"node.js",8
+625,"nodejs",8
+626,"nosql",7
+627,"ntservers",5
+628,"numba",8
+629,"nxt-g",5
+630,"oauth",5
+631,"objection.js",5
+632,"objectionjs",5
+633,"objective-c",6
+634,"objectivesql",8
+635,"odoo",7
+636,"office",5
+637,"office365",5
+638,"oim",5
+639,"olap",5
+640,"oltp",7
+641,"omb",5
+642,"oms",5
+643,"onsen ui",8
+644,"oop",7
+645,"open nn",8
+646,"openam",8
+647,"opencl",8
+648,"opencv",7
+649,"opengl",5
+650,"oracle",8
+651,"oracle autonomous warehouse",5
+652,"oracle rdbms",5
+653,"oracle7",7
+654,"oracle8",7
+655,"oracle8i",7
+656,"oracle9",7
+657,"oracle9i",7
+658,"oraclexml",5
+659,"orange3",5
+660,"orient db",5
+661,"orm",7
+662,"os",7
+663,"osi",7
+664,"paas",7
+665,"parity",7
+666,"pascal",6
+667,"payjunction",5
+668,"paymotion",5
+669,"payoneer",5
+670,"paypal",5
+671,"paysimple",5
+672,"paytm",5
+673,"perl",6
+674,"phaser",5
+675,"photoshop",5
+676,"php",6
+677,"phpcms",7
+678,"phpmyadmin",5
+679,"pl/sql",5
+680,"pop3",7
+681,"populus",5
+682,"postgres",7
+683,"postgresql",7
+684,"postgressql",7
+685,"postman",5
+686,"postscript",6
+687,"powerbi",5
+688,"powershell",5
+689,"ppoe",7
+690,"prediction",7
+691,"prolog",6
+692,"prototype",7
+693,"prototyping",7
+694,"prysm",5
+695,"pure data",7
+696,"pusher",5
+697,"putty",5
+698,"pycharm",5
+699,"pyethereum",8
+700,"pygame",8
+701,"pylons",8
+702,"pyqt",5
+703,"pyspark",8
+704,"python",6
+705,"pytorch",8
+706,"qa",7
+707,"qlik",5
+708,"qos",7
+709,"qtp",7
+710,"quality assurance",7
+711,"quixel bridge",5
+712,"r",6
+713,"r&d",7
+714,"rabbitmq",5
+715,"raspberry pi",5
+716,"ravendb",7
+717,"rdbms",7
+718,"rdlc",7
+719,"react",8
+720,"react native",8
+721,"react.js",8
+722,"reactjs",8
+723,"reconfiguration",7
+724,"redhat",7
+725,"redshift",5
+726,"redux",8
+727,"remix ide",5
+728,"rest",7
+729,"rest 8",8
+730,"restapi",8
+731,"restful",8
+732,"robomongo",5
+733,"ror",6
+734,"rpg maker",5
+735,"rsa",7
+736,"rstudio",5
+737,"rtp",7
+738,"ruby",6
+739,"ruby on rails",6
+740,"rust",6
+741,"s3",5
+742,"salesforce",5
+743,"saml",6
+744,"sandbox",5
+745,"sap",5
+746,"sap data warehouse cloud",5
+747,"sap sybase ase",5
+748,"sas",7
+749,"scala",6
+750,"scalegrid",5
+751,"sccm",7
+752,"scikit-learn",8
+753,"scipy",8
+754,"scm",7
+755,"scom",7
+756,"scripting",7
+757,"scrum",7
+758,"scsi",5
+759,"scylladb",7
+760,"sdk",5
+761,"sdlcs",7
+762,"selenium",5
+763,"selenium web driver",5
+764,"seo",7
+765,"sequel pro",5
+766,"sequelize",7
+767,"server",5
+768,"servlet",7
+769,"servlets",7
+770,"sftp",7
+771,"sha",7
+772,"sharepoint",5
+773,"shell",5
+774,"shellscript",5
+775,"shellscripting",7
+776,"shopify",8
+777,"siebel",7
+778,"sila",7
+779,"silex",7
+780,"simula",5
+781,"siprnet",7
+782,"sitebuilder",5
+783,"sitecore",5
+784,"sklearn",8
+785,"skrill",7
+786,"sla",7
+787,"slaframework",8
+788,"smart contracts",7
+789,"smtp",7
+790,"snapmanager",5
+791,"snowflake",5
+792,"soapui",5
+793,"software assessment",7
+794,"software assessment management",5
+795,"software development",7
+796,"software production",7
+797,"software production management",7
+798,"software testing",7
+799,"solar2d",5
+800,"solaris",6
+801,"solaris10",5
+802,"solaris8",5
+803,"solaris9",5
+804,"solarwinds",5
+805,"solc",5
+806,"solidity",6
+807,"sop",7
+808,"sops",7
+809,"soql",7
+810,"spacy",5
+811,"spark",8
+812,"spatialos",5
+813,"speedtree",5
+814,"spreedly",5
+815,"springboot",8
+816,"spritkit",5
+817,"spss",7
+818,"spyder",5
+819,"sqa",7
+820,"sql",7
+821,"sql developer",7
+822,"sql sentry",5
+823,"sql server",5
+824,"sql server management studio",5
+825,"sql+.net",5
+826,"sqlalchemy",5
+827,"sqlite",7
+828,"sqlyog",5
+829,"sqr",6
+830,"squarespace",5
+831,"srs",7
+832,"saas",7
+833,"ssis",7
+834,"ssl",7
+835,"ssp",7
+836,"ssrs",7
+837,"stackby",5
+838,"stata",5
+839,"stencyl",5
+840,"stlc",7
+841,"stp",7
+842,"stripe",5
+843,"subnetting",7
+844,"sugar orm",5
+845,"sunos",5
+846,"swift",6
+847,"swiftic",5
+848,"symantec",5
+849,"symfony",8
+850,"synchronization",7
+851,"tableau",5
+852,"tableplus",5
+853,"tcl",6
+854,"tcp",7
+855,"tcp/ip",7
+856,"tcpip",7
+857,"teamdesk",5
+858,"tencent engine",8
+859,"tensorflow",8
+860,"teradata",5
+861,"tex",5
+862,"theano",8
+863,"titanium",5
+864,"tk",5
+865,"tkinter",5
+866,"toad",5
+867,"truffle",5
+868,"tsql",7
+869,"turbogears",8
+870,"typescript",6
+871,"typo3",5
+872,"ubuntu",5
+873,"ui",7
+874,"ui/ux",7
+875,"uml",7
+876,"unity",5
+877,"unix",5
+878,"unreal engine",8
+879,"urban airship",5
+880,"user testing",7
+881,"ux",7
+882,"vaadin",5
+883,"vb",7
+884,"vb basic .net",6
+885,"vb.net",6
+886,"vba",7
+887,"vbscript",6
+888,"vdi",7
+889,"vdm",7
+890,"verilog",6
+891,"vhdl",6
+892,"visio",5
+893,"visual basic .net",6
+894,"visualstudio.net",5
+895,"vlan",7
+896,"vmd",7
+897,"vms",5
+898,"voip",5
+899,"vpn",5
+900,"vps",7
+901,"vue.js",8
+902,"vuejs",8
+903,"vuforia",5
+904,"vyper",6
+905,"wan",7
+906,"wap",6
+907,"wap/wml",6
+908,"web3",8
+909,"web3.js",6
+910,"web3j",5
+911,"webgui",5
+912,"webmoney",5
+913,"websphere",5
+914,"weebly",5
+915,"weka",5
+916,"wepay",5
+917,"win32",5
+918,"winjs",5
+919,"winpython",5
+920,"wireshark",5
+921,"wix",5
+922,"wlan",7
+923,"wml",6
+924,"wms",5
+925,"wordpress",7
+926,"workflow",7
+927,"workflows",7
+928,"worldpay",5
+929,"wsdl",6
+930,"x\++",6
+931,"xamarin",5
+932,"xaml",6
+933,"xcode",5
+934,"xhtml",6
+935,"xml",6
+936,"xmlrpc",5
+937,"xsl",6
+938,"yola",5
+939,"python developer",7
+940,".net developer",7
+941,"ios developer",7
+942,"android developer",7
+943,"django developer",7
+944,"web developer",7
+945,"blockchain developer",7
+946,"game developer",7
+947,"flutter developer",7
+948,"mobile application developer",7
+949,"user acceptance testing",7
+950,"software testers",7
